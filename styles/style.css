@@ -180,3 +180,19 @@ nav .nav-button {
     font-weight: 600;
 }
 
+
+/* inspiration section styles */
+
+.inspiration-container .section-title {
+    margin-bottom: 24px;
+}
+
+.inspiration-video-container {
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 150px;
+    padding: 32px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.20);
+}
