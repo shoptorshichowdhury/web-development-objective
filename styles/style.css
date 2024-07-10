@@ -196,3 +196,65 @@ nav .nav-button {
     border-radius: 16px;
     border: 1px solid rgba(13, 19, 33, 0.20);
 }
+
+/* target section styles */
+
+.target-container {
+    margin-bottom: 111px;
+}
+
+.target-container .section-title {
+    margin-bottom: 24px;
+}
+
+.tech-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+}
+
+.tech-item {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    border-radius: 16px;
+    padding: 40px;
+}
+
+.tech1 {
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.tech2 {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.tech3 {
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.tech-title {
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+
+.tech-description {
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+}
+
+.tech-item a {
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
